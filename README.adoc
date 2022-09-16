@@ -1,0 +1,3 @@
+= zim-github-cli
+
+https://github.com/zimfw/zimfw[zim module] for https://github.com/cli/cli[GitHub cli].
