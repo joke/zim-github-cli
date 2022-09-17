@@ -4,5 +4,8 @@
   [[ -z $command ]] && return 1
 
   local compfile=$1/functions/_gh
-  [[ ! -e $compfile || $compfile -ot $command ]] && $command completion -s zsh >| $compfile
+  if [[ ! -e $compfile || $compfile -ot $command ]]; then
+    $command completion -s zsh >| $compfile
+    zimfw check-dumpfile
+  fi
 } ${0:h}
