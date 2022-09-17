@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/joke/zim-github-cli/compare/v1.0.1...v1.1.0) (2022-09-17)
+
+
+### Features
+
+* check dumpfile after completion update ([9d6a1d3](https://github.com/joke/zim-github-cli/commit/9d6a1d3a9ce59cf846d2d7a09060d0d75f44aadf))
+
 ### [1.0.1](https://github.com/joke/zim-github-cli/compare/v1.0.0...v1.0.1) (2022-09-16)
 
 
