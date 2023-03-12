@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/joke/zim-github-cli/compare/v1.1.0...v1.1.1) (2023-03-12)
+
+
+### Bug Fixes
+
+* new version detection message ([c9dd3c4](https://github.com/joke/zim-github-cli/commit/c9dd3c4d635d91fbf2be806fc0a1a6011ca1beb6))
+
 ## [1.1.0](https://github.com/joke/zim-github-cli/compare/v1.0.1...v1.1.0) (2022-09-17)
 
 
